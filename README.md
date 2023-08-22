@@ -1,4 +1,4 @@
-# Presentation
+# Presentation:
 # Smart Presentation Using MediaPipe
 
 In this project, we will utilize MediaPipe to create a smart presentation system using a simple camera. 
